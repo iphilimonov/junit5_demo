@@ -1,0 +1,38 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# copy pasted
+*.iml
+*.ipr
+*.iws
+.idea
+.run
+
+/.ideaDataSources
+/.gradle
+/build
+/dataSources
+/classes
+/fs
+/datasources
+
+
+/**/target
+/**/deploy
+/**/build
+/**/.gradle
+
+/**/.idea
+/out/test/classes/misc/BeforeAfterExecutionListener.class
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/out/test/resources/META-INF/services/org.junit.platform.launcher.TestExecutionListener
+/out/test/classes/suites/Suite_20.class
+/out/test/classes/cases/Test1.class
+/out/test/classes/cases/Test2.class
